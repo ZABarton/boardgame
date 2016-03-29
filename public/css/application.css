@@ -1,0 +1,25 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+}
+
+.form {
+  width: 200px;
+  background-color: #ccc;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.form input {
+  padding: 5px;
+  width: 100%;
+}
+
+.form p {
+  text-align: center;
+}
